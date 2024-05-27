@@ -1,6 +1,7 @@
 # A Comprehensive Guide to State Management in React with TypeScript
 In this repository, Ziggy Rafiq examines how to manage state in React applications using TypeScript. It includes examples leveraging React Context API and Redux for robust state management. Discover how type safety works and how to manage application state effectively.
 
+**[Read the article on C# Corner](https://www.c-sharpcorner.com/article/a-comprehensive-guide-to-state-management-in-react-with-typescript/)**
 ## Installation
 
 Clone this repository:
